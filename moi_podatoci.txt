@@ -1,3 +1,2 @@
 Sanja Kostovska
 sanya.kostovska@outlook.com
-i komandata echo > "edna nova recenica" > nov_fajl.txt ENTER
