@@ -1,1 +1,12 @@
+commit 974df4f7c6f96cabe2ed47f0e61b0edb72c7e244 (origin/new_branch, new_branch)
+Author: SanyaScarlet23 <sanya.kostovska@outlook.com>
+Date:   Wed Mar 22 21:47:12 2023 +0100
+
+    nov_fajl.txt
+
+commit d9465c74154548cac39f8fd785a9312b33a07e69
+Author: SanyaScarlet23 <sanya.kostovska@outlook.com>
+Date:   Wed Mar 22 21:25:37 2023 +0100
+
+    new_file.txt
 
